@@ -39,5 +39,5 @@ const getQueue = job => {
   }
 }
 
-exports.getQueue = getQueue
 exports.sendQueue = sendQueue
+exports.getQueue = getQueue
